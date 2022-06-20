@@ -1,5 +1,3 @@
-# flutter_openstreetmap
- OpenStreetMap for Flutter app
 # 📦 Flutter OpenStreetMap
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dileepabandara/flutter_openstreetmap?color=red&label=repository%20size)
